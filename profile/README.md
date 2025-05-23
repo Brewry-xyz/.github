@@ -36,7 +36,7 @@ Brewry is a powerful cloud-based platform designed to handle the complexities of
 
 To begin your journey with Brewry:
 
-1. Visit [brewry.xyz](https://brewry.xyz) to create your account
+1. Visit [dashboard.brewry.xyz](https://dashboard.brewry.xyz) to create your account
 2. Connect your network-enabled devices to publish time-series data
 3. Follow our [Quick Start Guide](https://docs.brewry.xyz/docs/dashboard/intro) to set up your first data pipeline
 
